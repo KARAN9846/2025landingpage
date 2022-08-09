@@ -21,7 +21,8 @@ This Project Is Created Using Html & CSS Only. Various Html & CSS Property are U
 This Is My Very First Project That Teach Me a Lot About How to Really Think And Put It Into a Code...That Makes Out-Put Pretty Decent. I Also Find Out That What Only `CSS` Can Do,
 And How Much it is Important to Learn Basics Of `CSS` Very Well.
 
-`### How Much Time I Took To Finish This Project...?` Overall it Took me a `24 hours` to Commplete This Project, `yes you read that Correct 24 hours`, So Much Try & Erorr, So much to Learn. After Finishing this I Feel So much Confident to Build Other Projects and Explore More.
+## How Much Time I Took To Finish This Project...? 
+>Overall it Took me a `24 hours` to Commplete This Project, `yes you read that Correct 24 hours`, So Much Try & Erorr, So much to Learn. After Finishing this I Feel So much Confident to Build Other Projects and Explore More.
 
 ---
 
@@ -33,7 +34,8 @@ And How Much it is Important to Learn Basics Of `CSS` Very Well.
 
 ## Screenshot 
 
-[Live Link]()
+
+[Live Link](https://beamish-beijinho-3c7620.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
