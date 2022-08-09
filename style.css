@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  .navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 8rem;
+    font-family: "Orbitron";
+    font-weight: 500;
+   
+ }
+ 
+ 
+ .list{
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ 
+ .list-item{
+     list-style: none;
+     margin: 0px 10px;
+     font-size: 20px;
+ }
+ 
+ .list-item:hover{
+     text-decoration: solid underline #000000 2px;
+     font-weight: bold;
+     }
+ 
+ 
+ .button-group{
+     display: flex;
+     align-items: center;
+ }
+ 
+ 
+ .search-icon{
+    
+ }
+ 
+ .nav-button {
+     background-color: #fff;
+     padding: 5px;
+     border-radius: 0.6rem;
+     font-size: 1.1rem;
+     margin-left: 1rem;
+     font-family: "Poppins";
+     width: 140px;
+ 
+ }
+ 
+ .hero-container{
+     display: flex;
+     margin: 5rem 3rem 2rem 3rem;
+     
+     
+ }
+ 
+ .hero-heading{
+     display: flex;
+     font-size: 3rem;
+     justify-content: space-between;
+     font-weight: bold;
+     font-family: "Orbitron", Helvetica, sans-serif;
+     margin-left: -20%;
+     text-align: center;
+     margin-top: 15%;
+    
+     
+     
+ 
+ }
+ 
+ .hero-description{
+     text-align: center;
+     display: flex;
+     font-family: Poppins;
+     justify-content: space-between;
+     margin-top: 5%;
+     width: 100%;
+     font-size: small;
+    margin-bottom: 10rem;
+    margin-left: -15%;
+    color: #454545;
+    
+    
+   }
+ 
+ 
+ 
+ .contact-heading{
+     font-weight: 500;
+     font-size: 20px;
+ }
+ 
+ 
+ 
+ .star{
+         position: absolute;
+         top: 180px;
+         right: 10%;
+         width: 5px;
+         height: 10%;
+         padding: -20px;
+     
+     }
+ 
+ .contact-heading{
+     font-weight: 400;
+     font-size: larger;
+     color:rgb(59, 59, 59);
+     margin-bottom: 1rem;
+ }
+ 
+ .hero-container>div>img{
+     width: 360px;
+     margin-left: -70%;
+     height: 450px;
+ }
+ 
+ .square> img {
+     margin-left: 55%;
+     margin-top: 73%;
+     height: 280px; 
+     width: 300px;
+ }
+ 
+ 
+ 
+ .button-email{
+     position: absolute;
+     top: 70%;
+     padding: 5px;
+     background-color: transparent;
+     border-radius: 0.7rem;
+     
+     font-family: Orbitron, Helvetica, sans-serif;
+     font-size: 1.1rem;
+     margin-left: 4%;
+     width: 180px;
+ }
+ 
+ .button-join{
+     position: absolute;
+     top: 70%;
+     margin-left: 19%;
+     padding: 5px;
+     background-color: transparent;
+     border-radius: 0.7rem;
+     font-family: Orbitron, Helvetica, sans-serif;
+     font-size: 1.1rem;
+     width: 150px;
+ }
+ 
+ .contact-heading{
+     position: absolute;
+     top: 85%;
+     margin-left: 15%;
+     text-shadow: #000000;
+ }
+ 
+ .icons{
+     position: absolute;
+     top: 90%;
+     margin-left: 11%;
+ }
+ 
+ 
+ .star> img {
+     width: 50px;
+ }
+ 
+ 
+ .globe{
+     position: absolute;
+     top: 150px;
+     left: 55%;
+ 
+  }
+ 
+  .globe>img{
+     width: 50px;
+  }
+ 
